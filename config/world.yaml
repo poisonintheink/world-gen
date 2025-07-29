@@ -2,7 +2,11 @@ world:
   grid_size:
     width: 40000
     height: 20000
-  tile_scale: 1.0 # meters per tile
+  # Meters per tile. Tune per project for different world scales.
+  tile_scale: 1.0
+  # Milliseconds allotted for generating a single chunk. Adjust per project
+  # performance requirements.
+  chunk_time_budget_ms: 20
   chunk:
     size: 256
     overlap: 12
