@@ -11,3 +11,4 @@ world:
     size: 256
     overlap: 12
   seed: 123456789
+  biome_palette: palettes/biome_palette.yaml

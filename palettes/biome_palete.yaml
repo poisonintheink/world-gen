@@ -1,0 +1,13 @@
+biomes:
+  - id: ocean
+    color: "#1f51ff"
+  - id: beach
+    color: "#ffe598"
+  - id: desert
+    color: "#edc9af"
+  - id: grassland
+    color: "#88c57f"
+  - id: forest
+    color: "#228b22"
+  - id: mountain
+    color: "#888888"
