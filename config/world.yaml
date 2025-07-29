@@ -1,0 +1,9 @@
+world:
+  grid_size:
+    width: 40000
+    height: 20000
+  tile_scale: 1.0 # meters per tile
+  chunk:
+    size: 256
+    overlap: 12
+  seed: 123456789
